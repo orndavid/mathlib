@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Project files to skip
+build
+extern/benchmark
+
+# Vim extension
+*~
+
+# Emacs extension
+*#
